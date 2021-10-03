@@ -10,6 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastStack&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastStack&theme=cobalt&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![TheLastStack's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLastStack&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
